@@ -3,7 +3,12 @@ form {
     width: 600px;
     padding: 2rem;
     gap: 1rem;
-}
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+
+}   
 
 form div input, textarea{
     width: 100%;
@@ -13,3 +18,4 @@ form div input, textarea{
     padding: 0 2rem;
     resize: none;
 }
+
