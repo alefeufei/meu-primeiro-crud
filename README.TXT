@@ -6,3 +6,8 @@ Update => Put => Atualização de informações
 Delete = Delete => Deletar informações
 
 
+Instalação:
+
+NPM
+NPM Server
+Axios

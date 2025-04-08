@@ -1,8 +1,28 @@
 {
     "posts": [
         {
-            "titile": "Post 1",
-            "content": "This is the content of post 1."
-        }
+            "id": 1,
+            "title": "Post 1",
+            "description": "Um olhar sobre as inovações tecnológicas",
+            "content": "Explorando as maravilhas da tecnologia moderna, este post discute as inovações que estão transformando nosso mundo, desde inteligência artificial até avanços em energia sustentável."
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "description": "A influência da literatura clássica",
+            "content": "Este post mergulha profundamente no universo da literatura, abordando como os clássicos continuam a influenciar autores contemporâneos e a forma como vemos o mundo ao nosso redor."
+        },
+        {
+            "id": 3,
+            "title": "Post 3",
+            "description": "Reflexões sobre redes sociais",
+            "content": "Vamos refletir sobre o impacto das redes sociais na sociedade atual: este post examina os desafios de manter a autenticidade em um mundo cada vez mais digital."
+        },
+        {
+            "id": 4,
+            "title": "Post 4",
+            "description": "A importância da saúde mental",
+            "content": "Este post celebra a beleza da natureza, explorando lugares incríveis ao redor do mundo e como podemos contribuir para a preservação ambiental."
+        }    
     ]
 }
